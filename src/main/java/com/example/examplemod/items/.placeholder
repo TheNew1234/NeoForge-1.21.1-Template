@@ -1,0 +1,3 @@
+Git by default does not ship empty folders.
+This file is created to prevent that. You can delete it when you use the template.
+The folder/Java package is there for full template structure.
